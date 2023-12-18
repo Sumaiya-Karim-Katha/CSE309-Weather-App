@@ -165,7 +165,7 @@
                 <div>
                     Weather:
                     <?php
-                    echo $weather0.' ';
+                    echo $weather0 . ' ';
                     echo "<img src=http://openweathermap.org/img/w/" . $icon0 . ".png>";
                     ?>
                 </div>
@@ -341,7 +341,7 @@
                 <div>
                     Weather:
                     <?php
-                    echo $weather1.' ';
+                    echo $weather1 . ' ';
                     echo "<img src=http://openweathermap.org/img/w/" . $icon1 . ".png>";
                     ?>
                 </div>
@@ -408,7 +408,7 @@
                 <div>
                     Weather:
                     <?php
-                    echo $weather4.' ' ;
+                    echo $weather4 . ' ';
                     echo "<img src=http://openweathermap.org/img/w/" . $icon4 . ".png>";
                     ?>
                 </div>
@@ -431,7 +431,7 @@
                 <div>
                     Weather:
                     <?php
-                    echo $weather5.' ';
+                    echo $weather5 . ' ';
                     echo "<img src=http://openweathermap.org/img/w/" . $icon5 . ".png>";
                     ?>
                 </div>
