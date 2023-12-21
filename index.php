@@ -14,7 +14,7 @@
         .col-2,
         .col-1,
         .col-3 {
-            background-color: #0802A3;
+            background-color: #E0AED0;
             border-radius: 20px;
             padding-left: 20px;
             padding-right: 20px;
@@ -25,12 +25,12 @@
         }
 
         .btn {
-            background-color: #D71313;
+            background-color: #E0AED0;
         }
 
         body {
             font-size: 20px;
-            color: #FFFF00;
+            color: #392467;
         }
     </style>
 </head>
@@ -133,7 +133,7 @@
     ?>
 </div>
 
-<body style="background-color: #FF7676;">
+<body style="background-color: #FFE5E5;">
     <div class="m-3 px-3">
         <h1 class="h1 m-3 p-3 text-center">Weather Mania</h1>
 
